@@ -1,0 +1,28 @@
+BERONIO, FLORENZ MARIE B.
+BS CPE 4B
+
+CPE 421 (TROUBLESHOOTING OF COMPUTER SYSTEM)
+
+Quiz1F
+
+Why does the raspberry pi functioning?
+
+	The raspberry pi is functioning because the charger used meets the requirement that able the rpi to on, indications are when red light is steadily on
+ and the green light is blinking. Another reason is there is an operating system installed. The connecting wires used are in good condition.
+
+	This answer is according to Mr. Salon because he did the troubleshooting on his raspberry pi, the site he searched was elinux.org/R-Pi-troubleshooting.
+I also based my answer, on what Mr. Cotacte said because they've tried troubleshooting the raspberry pi. 
+
+
+Quiz2F
+
+OBSERVATION
+	When we troubleshoot the system unit, the reason why it is not functioning is because the powersupply is defective. Eventhough the CPU fan is functional, we fail
+to check the motherboard because the powersupply has a problem. We also observe that the parts of the system is not clean, it has lots of dusts and other components are 
+so old which we think an additional reason why it is not functioning.
+
+	We think that we need to change the fuse of the powersupply, if it is still not functioning change the system unit's powersupply. When you already change the 
+powersupply and the problem is still there buy a new system unit.
+
+Note: Make sure that all the components and other parts of the system unit are clean. 
+ 
