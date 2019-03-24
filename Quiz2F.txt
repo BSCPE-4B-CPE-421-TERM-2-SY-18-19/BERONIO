@@ -1,0 +1,9 @@
+OBSERVATION
+	When we troubleshoot the system unit, the reason why it is not functioning is because the powersupply is defective. Eventhough the CPU fan is functional, we fail
+to check the motherboard because the powersupply has a problem. We also observe that the parts of the system is not clean, it has lots of dusts and other components are 
+so old which we think an additional reason why it is not functioning.
+
+	We think that we need to change the fuse of the powersupply, if it is still not functioning change the system unit's powersupply. When you already change the 
+powersupply and the problem is still there buy a new system unit.
+
+Note: Make sure that all the components and other parts of the system unit are clean.

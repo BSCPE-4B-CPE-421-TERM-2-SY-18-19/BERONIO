@@ -1,0 +1,15 @@
+BERONIO, FLORENZ MARIE B.
+BS CPE 4B
+
+CPE 421 (TROUBLESHOOTING OF COMPUTER SYSTEM)
+
+Quiz1F
+
+Why does the raspberry pi functioning?
+
+	The raspberry pi is functioning because the charger used meets the requirement that able the rpi to on, indications are when red light is steadily on
+ and the green light is blinking. Another reason is there is an operating system installed. The connecting wires used are in good condition.
+
+	This answer is according to Mr. Salon because he did the troubleshooting on his raspberry pi, the site he searched was elinux.org/R-Pi-troubleshooting.
+I also based my answer, on what Mr. Cotacte said because they've tried troubleshooting the raspberry pi. 
+
